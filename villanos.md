@@ -5,3 +5,4 @@
 * Venom
     * Carnage
 * Red Skull
+* Red Hulk
