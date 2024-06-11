@@ -6,3 +6,4 @@
     * Carnage
 * Red Skull
 * Red Hulk
+* Otro villano
