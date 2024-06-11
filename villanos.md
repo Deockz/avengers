@@ -4,3 +4,4 @@
     * Subdito de ultron
 * Venom
     * Carnage
+* Red Skull
